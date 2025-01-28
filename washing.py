@@ -20,3 +20,10 @@ def washing_machine_time(weight, water_level):
 weight = int(input("Enter the weight of clothes (in grams): "))
 water_level = input("Enter the water level (L/M/H): ")
 print(washing_machine_time(weight, water_level))
+
+
+""" Output
+Enter the weight of clothes (in grams): 6500
+Enter the water level (L/M/H): H
+Time Estimated: 45 Minutes """
+
